@@ -6,4 +6,9 @@ Se trata de las controversias que Ka-Boom ha tenido a lo largo de su historia.
 
 Así que si alguien se topa con esta repo, están viendo un previo no tan sorpresa.
 
+** Detalles importantes:
+
+- Los puntos no tienen un órden específico
+- Aún no diseño los niveles del Iceberg
+
 Saludos.
