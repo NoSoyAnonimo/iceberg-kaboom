@@ -1,6 +1,7 @@
-Best buddies gate
+# Best buddies gate
 
 Uno de los últimos conflictos en grande de Ka-Boom estudio fue el llamado Best Buddies Gate. Una historia que probablemente reflejó una de las últimas veces en las que Ka-Boom iniciaría una discusión de gran tamaño con la mayor parte de los que en aquel momento se podrían considerar sus grandes detractores.
+
 Best Buddies de México publicó una convocatoria para un concurso de comic. Una página entonces llamada Marvel Comics México (sin relación con la editorial, ni sus publicaciones en ese entonces editadas por Editorial Televisa) retomó la convocatoria original cuestionando algunos de sus puntos más controversiales.
 Buscar el post original es una tarea inútil, ya que a consecuencia de la gran discusión de Facebook, Best Buddies México canceló la convocatoria.
 
