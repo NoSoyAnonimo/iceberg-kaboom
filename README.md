@@ -2,4 +2,5 @@
 
 En este repositorio voy a estar agregando uno a uno los puntos para el iceberg de ka-boom estudio.
 
-Eso
+Repositorio creado por [No Soy Anónimo][https://github.com/nosoyanonimo]
+
